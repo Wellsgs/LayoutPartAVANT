@@ -13,7 +13,7 @@
             <ol class="breadcrumb">
                 <li class='active'><a href="index.php">Dashboad</a></li>
             </ol>
-            <h1>Dashboard</h1>            
+            <h1>Dashboards</h1>            
         </div>       
 
         <div class="container">               
