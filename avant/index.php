@@ -17,7 +17,7 @@
         </div>       
 
         <div class="container">               
-            //o conteúdo vai aqui       
+            //Conteúdo      
         </div> <!-- container -->
     </div> <!--wrap -->
 </div> <!-- page-content -->
